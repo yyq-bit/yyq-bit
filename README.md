@@ -10,7 +10,7 @@
 
 ```javascript
  class WhoAmI:
- 	user = 'YuyongQi'
+ 	user = 'YuYongqi'
 	hobbies = [
 				'Drawing',
 				'Petting Dogs',
