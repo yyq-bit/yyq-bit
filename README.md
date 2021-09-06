@@ -6,7 +6,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yyq-bit&show_icons=true) 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about [me](https://yyq-bit.github.io/Blog/)
 
 ```javascript
  class WhoAmI:
